@@ -1,3 +1,3 @@
-Current Project : make Rock-Paper-Scissors Game
+Current Project : Make Rock-Paper-Scissors Game
 
 Tools: Javascript
